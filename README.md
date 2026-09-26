@@ -4,12 +4,12 @@
 
 ## GitHub Pages
 
-主页发布仓库：`JIMGuYuehu/codextest`。只上传本目录内容，不要上传 JIMLOG 工作区。
+主页发布仓库：`JIMGuYuehu/jimguyuehu.github.io`。只上传本目录内容，不要上传 JIMLOG 工作区。
 
 1. 将 `public/` 和 `.github/` 上传到新仓库根目录，默认分支使用 `main`。
 2. 在仓库 Settings → Pages → Build and deployment → Source 选择 GitHub Actions。
 3. 在 Actions 运行 `Deploy personal homepage to GitHub Pages`。之后对 `main` 的更新会自动发布。
-4. 主页地址为 `https://jimguyuehu.github.io/codextest/`，只有部署成功后才可访问。页面资源均使用相对路径。
+4. 主页地址为 `https://jimguyuehu.github.io/`，只有部署成功后才可访问。页面资源均使用相对路径。
 
 部署只打包 `public/`。无需独立域名。
 
