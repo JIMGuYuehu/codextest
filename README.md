@@ -29,6 +29,8 @@
 - ACP 2023 论文：https://acp.copernicus.org/articles/23/4545/2023/
 - GitHub 已连接账号：JIMGuYuehu。
 - Google Scholar：用户于 2026-10-01 提供并经公开主页核对，个人档案 ID 为 `93NsbO4AAAAJ`。按用户偏好不展示 LinkedIn。
+- 研究资助：SOCLIM，ERC Starting Grant，Horizon Europe，资助协议编号 `101078127`；https://cordis.europa.eu/project/id/101078127 。表述为博士研究由 Gabriel Chiodo 主持的项目支持，不将 ERC 项目归为个人获奖或个人主持。
+- 欧盟＋ERC 组合标识：`public/assets/erc-eu-horizon-europe.png`，2026-10-01 从 ERC 官方 Horizon Europe 标识下载，保持原始文件、颜色和比例：https://erc.europa.eu/sites/default/files/2025-08/LOGO_ERC-FLAG_EU.png 。资助声明依据：https://erc.europa.eu/manage-your-project/communicate-your-research 。英文标准声明在中英文界面均保留原文。
 
 会议摘要与期刊论文分开展示。研究部分描述问题与方法，不将初步研究写成已经证实的结论。未将内部研究日志、服务器信息、电话或私人访问计划放入网站。
 
